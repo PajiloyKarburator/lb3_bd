@@ -2,8 +2,8 @@
 
 Добавьте в таблицу трех пользователей: Дмитрия Иванова, Анатолия Белого и Дениса Давыдова.
 
-CREATE TANLE users (
-Id INT (50),
+CREATE TABLE users (
+Id INT,
 first_name VARCHAR (50),
 last_name Varchar (50)
 );
